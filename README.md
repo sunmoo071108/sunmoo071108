@@ -12,7 +12,7 @@ I am a student in gwangju softwaremeister high school
 - ⚡ Fun fact: ...
 
 <!--
-**sunmoo071108/sunmoo071108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sunmoo1108/sunmoo1108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
